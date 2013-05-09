@@ -1,0 +1,100 @@
+backward,v
+,V
+"\e[A": history-search-backward,V
+          <li>May 14 after work            <p>Dr. Philips</p>          </li>          <li>May 21 after work (New Haven)            <p>Zenon Protopopas</p>          </li>,V
+          ,V
+          <li>          </li>,V
+",v
+c,v
+margin,v
+: ,v
+0 ,v
+auto,v
+; ,v
+display,v
+blo,v
+k,v
+;,v
+">,v
+#shopt -s nocaseglob,V
+#,v
+s,v
+</li><li>,v
+>,v
+i,v
+l,v
+<,v
+/,v
+</li>,v
+<li data-role="list-divider" role="heading"></li><li>Pulmonary Edema</li><li>1. Give O2 6 to 10 liters/min (via mask).</li><li>2. Elevate torso.</li><li>3. Give diuretics: furosemide (Lasix®) 20 to 40 mg IV, slow push.</li><li>4. Consider giving morphine (1 to 3 mg IV).</li><li>5. Transfer to intensive care unit or emergency department.,V
+pulmedema,v
+<li data-role="list-divider" role="heading"></li><li>Seizures or Convulsions</li><li>1. Give O2 6 to 10 liters/min (via mask).</li><li>2. Consider diazepam (Valium®) 5 mg IV (or more, as appropriate) or midazolam (Versed®) 0.5 to 1 mg IV.</li><li>3. If longer effect needed, obtain consultation; consider phenytoin (Dilantin®) infusion - 15 to 18 mg/kg at 50 mg/min.</li><li>4. Careful monitoring of vital signs required, particularly of pO2 because of risk to respiratory depression with benzodiazepine administration.</li><li>5. Consider using cardiopulmonary arrest response team for intubation if needed.,V
+seizures,v
+<li data-role="list-divider" role="heading"></li><li>Hypertension, Severe</li><li>1. Give O2 6 to 10 liters/min (via mask).</li><li>2. Monitor electrocardiogram, pulse oximeter, blood pressure.</li><li>3. Give nitroglycerine 0.4 mg tablet, sublingual (may repeat Χ 3); or, topical 2% ointment, apply 1 inch strip.</li><li>4. If no response, consider labetalol 20 mg IV, then 20 to 80 mg IV every 10 minutes up to 300 mg.</li><li>5. Transfer to intensive care unit or emergency department.</li><li>6. For pheochromocytoma: phentolamine 5 mg IV. (may use labetalol if phentolamine is not available),V
+htn,v
+      ,V
+ ,v
+<li data-role="list-divider" role="heading"></li><li>Hypotension with Bradycardia (Vagal Reaction)</li><li>1. Secure airway: give O2 6 to 10 liters/min (via mask)</li><li>2. Monitor vital signs.</li><li>3. Legs elevated 60 degrees or more (preferred) or Trendelenburg position.</li><li>4. Secure IV access: rapid administration of Ringer's lactate or normal saline.</li><li>5. Give atropine 0.6 to 1 mg IV slowly if patient does not respond quickly to steps 2 to 4.</li><li>6. Repeat atropine up to a total dose of 0.04 mg/kg (2 to 3 mg) in adult.</li><li>7. Ensure complete resolution of hypotension and bradycardia prior to discharge.,V
+d,v
+bra,v
+y,v
+brady,v
+<li data-role="list-divider" role="heading"></li><li>Bronchospasm</li><li>1. Give O2 6 to 10 liters/min (via mask).</li><li>Monitor: electrocardiogram, O2 saturation (pulse oximeter), and blood pressure.</li><li>2. Give beta-agonist inhalers (bronchiolar dilators, such as metaproterenol [Alupent®], terbutaline [Brethaire®], or albuterol [Proventil® or Ventolin®]) 2 to 3 puffs; repeat as necessary. If unresponsive to inhalers, use SC, IM, or IV epinephrine.</li><li>3. Give epinephrine SC or IM (1:1,000) 0.1 to 0.3 ml (=0.1 to 0.3 mg) or, especially if hypotension evident, epinephrine (1:10,000) slowly IV 1 to 3 ml (=0.1 to 0.3 mg).</li><li>Repeat as needed up to a maximum of 1 mg.</li><li>Call for assistance (e.g., cardiopulmonary arrest response team) for severe bronchospasm or if O2 saturation < 88% persists.,V
+bronchospasm,v
+<li data-role="list-divider" role="heading"></li><li>Facial or Laryngeal Edema</li><li>1. Give O2 6 to 10 liters/min (via mask).</li><li>2. Give alpha agonist (arteriolar and venous constriction): epinephrine SC or IM (1:1,000) 0.1 to 0.3 ml (=0.1 to 0.3 mg) or, especially if hypotension evident, epinephrine (1:10,000) slowly IV 1 to 3 ml (=0.1 to 0.3 mg).</li><li>Repeat as needed up to a maximum of 1 mg.</li><li>If not responsive to therapy or if there is obvious acute laryngeal edema, seek appropriate assistance (e.g., cardiopulmonary arrest response team).,V
+a,v
+m,v
+e,v
+n,v
+r,v
+          tachy,V
+<li data-role="list-divider" role="heading"></li><li>Hypotension with Tachycardia</li><li>1. Legs elevated 60 degrees or more (preferred) or Trendelenburg position.</li><li>2. Monitor: electrocardiogram, pulse oximeter, blood pressure.</li><li>3. Give O2 6 to 10 liters/min (via mask).</li><li>4. Rapid intravenous administration of large volumes of Ringer's lactate or normal saline.</li><li>If poorly responsive: epinephrine (1:10,000) slowly IV 1 ml (=0.1 mg)</li><li>Repeat as needed up to a maximum of 1 mg</li><li>If still poorly responsive seek appropriate assistance (e.g., cardiopulmonary arrest response team).</li>,V
+<li data-role="list-divider" role="heading">,V
+          ,v
+          <li data-role="list-divider" role="heading">,V
+World,v
+Hello ,v
+        PhoneGap Team,V
+        Hello World sample application that responds to the deviceready event.,V
+						<p>Jonathan Killam (St Luke’s) CHEST</p>,V
+					</li>,V
+						,V
+<li>Apr 8 UCONN - RESCHEDULED,v
+					<li>Apr 8 UCONN - RESCHEDULED							<p>Gary Israel (Yale) GI/GU</p>					</li>,V
+160. Wegener Granulomatosis,V
+##########,V
+Vasculitis,V
+#######################################,1
+*,v
+com.apple,v
+.airport.,v
+preferences.plist,v
+&& logger Location changed to Home,v
+    <integer>600</integer>,V
+  <key>ThrottleInterval</key>,V
+more ,v
+common ,v
+-,v
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,v
+######,V
+.,v
+"tail sign" seen in up to 80% of peripheral lung ca -,v
+"tail sign" seen in up to 80% of peripheral lung ca ,v
+low ,v
+densit,v
+###########,V
+:,v
+X,v
+D,v
+o,v
+g,v
+severe (cystic) ,v
+other cause of bronchiectasi,v
+Urticaria1.	Discontinue injection if not completed2.	No treatment needed in most cases3.	Give H1-receptor blocker: diphenhydramine (Benadryl®) PO/IM/IV 25 to 50 mg.If severe or widely disseminated: give alpha agonist (arteriolar and venous constriction): epinephrine SC (1:1,000) 0.1 to 0.3 ml (=0.1 to 0.3 mg) (if no cardiac contraindications).,V
+    <!-- urticaria -->		<div data-role="page" id="urticaria" data-theme="a">			<div data-theme="a" data-role="header">				<h3>					Acute Reaction				</h3>				<a data-role="button" data-direction="reverse" data-transition="slide"    href="#page3" data-icon="back" data-iconpos="left" class="ui-btn-left">          Back        </a>			</div>			<div data-role="content">				<ul data-role="listview">          content				</ul>			</div>		</div>,V
+              Seizures or Convulsions,V
+          <li>            <a href="#seizures" data-transition="slide">              Seizures or Convulsions            </a>         </li>          ,V
+              Hypotension w Tachycardia,V
+<li>            <a href="#tachy" data-transition="slide">              Hypotension w Tachycardia            </a>         </li>,v
+<a href="#urticaria" data-transition="slide">              Urticaria            </a>,v
+          LIST HERE,V
