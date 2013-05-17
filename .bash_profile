@@ -4,7 +4,7 @@ export PATH="/usr/local/bin:/usr/local/sbin":$PATH
 export EDITOR=/usr/bin/vim
 export LSCOLORS="exfxcxdxbxegedabagacad"
 #export PS1='\h:\W \$ '
-export PS1='\[\e[0;32m\]\h:\W\$\[\e[m\] ' 
+export PS1='\[\e[0;32m\]\u:\W\$\[\e[m\] ' 
 
 alias quick='qlmanage -p "$@" >& /dev/null'
 alias cheat='less $HOME/bin/cheat_sheet.md'
