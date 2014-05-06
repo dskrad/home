@@ -4,3 +4,4 @@ shopt -s nocaseglob
 
 export HISTTIMEFORMAT="%b %d %r "
 export HISTIGNORE="&:ls:[fb]g:exit"
+export PYTHONSTARTUP=$HOME/.pythonrc.py
