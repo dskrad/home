@@ -9,7 +9,7 @@ TAB: menu-complete
 # do not make noise
 set bell-style none
 
-#set editing-mode vi
+set editing-mode vi
 
 $if Bash
   # F10 toggles mc on and off
