@@ -1,0 +1,3 @@
+$GIT_DIR/info/exclude, .gitignore, 
+
+.vim_runtime/
