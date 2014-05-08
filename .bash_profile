@@ -4,8 +4,6 @@ export PATH="/Users/david/Library/Application Support/GoodSync":$PATH
 export PATH="/usr/local/bin:/usr/local/sbin":$PATH
 export EDITOR=/usr/bin/vim
 export LSCOLORS="exfxcxdxbxegedabagacad"
-#export PS1='\h:\W \$ '
-export PS1='\[\e[0;32m\]\u:\W\$\[\e[m\] ' 
 
 alias quick='qlmanage -p "$@" >& /dev/null'
 alias cheat='less $HOME/bin/cheat_sheet.md'
@@ -29,5 +27,17 @@ alias gvim="gvim -S ~/.vim_runtime/my_configs.vim"
 if [ -f ~/.bashrc ]; then
   source ~/.bashrc
 fi
+
+# git bash-completion and git prompt
+if [ -f /Applications/Xcode.app/Contents/Developer/usr/share/git-core/git-completion.bash ]; then
+  source /Applications/Xcode.app/Contents/Developer/usr/share/git-core/git-completion.bash
+  source /Applications/Xcode.app/Contents/Developer/usr/share/git-core/git-prompt.sh
+fi
+
+export GIT_PS1_SHOWDIRTYSTATE=true
+export GIT_PS1_SHOWUNTRACKEDFILES=true
+
+#export PS1='\h:\W \$ '
+export PS1='\[\e[0;32m\]\u:\W $(__git_ps1 "(%s)")\$\[\e[m\] ' 
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
